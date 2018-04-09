@@ -17,6 +17,7 @@ public class JavaApp {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Thanyalak Sirikul");
+            System.out.println("Thanyalak Sirikul12345");
     }
     
 }
