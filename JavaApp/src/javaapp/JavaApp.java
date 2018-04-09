@@ -22,6 +22,7 @@ public class JavaApp {
         System.out.println("Thanyalak Sirikul");
         System.out.println("lalala");
         System.out.println("kkk");
+        System.out.println("fdgf");
     }
     
 }
