@@ -19,6 +19,7 @@ public class JavaApp {
         System.out.println("Print your Name");
         System.out.println("Fon");
         System.out.println("I'm Yok");
+        System.out.println("Thanyalak Sirikul");
     }
     
 }
